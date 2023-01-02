@@ -1,5 +1,11 @@
 package Gestion;
 
-public class Livre {
+public class Livre 
+{
+	
+	public Livre()
+	{
+		
+	}
 
 }
